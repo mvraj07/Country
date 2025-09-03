@@ -1,0 +1,85 @@
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: white;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header-container {
+  height: 7rem;
+  background-color: rgb(63, 63, 63);
+}
+.nav-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo-heading {
+  font-size: 3.2rem;
+}
+
+.nav-links {
+  display: flex;
+  gap: 3rem;
+  list-style: none;
+  font-size: 2.8rem;
+}
+/* header section ends here  */
+
+/* hero section starts here */
+
+/* hero section Ends  here */
+.hero-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  color: black;
+  font-size: 2.2rem;
+  max-height: 100vh;
+}
+.hero-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2rem;
+}
+.hero-content button {
+  width: max-content;
+  padding: 0.6rem 1rem;
+  margin: 0 auto;
+}
+.heroheading {
+  font-size: 3.2rem;
+  text-align: center;
+  margin: 2rem;
+}
+.heroPara {
+  font-size: 1.6rem;
+  letter-spacing: 0.05rem;
+}
+.hero-image img {
+  height: 60rem;
+  width: 100%;
+}
+
+/* footer section starts here  */
+.grid4cols {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr;
+  font-size: 5.2rem;
+  place-items: center;
+}
+.Footer-container {
+  padding: 5rem;
+  height: 20rem;
+  background-color: rgb(63, 63, 63);
+}
+/* footer section ends here  */
+
+/* reusable classes */
+
+.container {
+  height: 100%;
+  max-width: 120rem;
+  margin: auto;
+}
