@@ -1,40 +1,21 @@
-export default function Footer() {
+export default function Header() {
   return (
-    <footer>
-      <div className="Footer-container">
-        <div className="container">
-          <div className="grid4cols">
-            <div className="footerHeading">WorldAtlas</div>
-            <div>
-              <ul>
-                <li>Home</li>
-                <li>Home</li>
-                <li>Home</li>
-                <li>Home</li>
-                <li>Home</li>
-              </ul>
-            </div>
-            <div>
-              <ul>
-                <li>Home</li>
-                <li>Home</li>
-                <li>Home</li>
-                <li>Home</li>
-                <li>Home</li>
-              </ul>
-            </div>
-            <div>
-              <ul>
-                <li>Home</li>
-                <li>Home</li>
-                <li>Home</li>
-                <li>Home</li>
-                <li>Home</li>
-              </ul>
-            </div>
+    <header>
+      <div className="header-container ">
+        <div className="container nav-flex">
+          <div className="logo">
+            <h1 className="logo-heading">WorldAtlas</h1>
+          </div>
+          <div>
+            <ul className="nav-links">
+              <li>Home</li>
+              <li>About</li>
+              <li>Country</li>
+              <li>Contact</li>
+            </ul>
           </div>
         </div>
       </div>
-    </footer>
+    </header>
   );
 }
