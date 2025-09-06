@@ -29,7 +29,6 @@ body {
 
 /* hero section starts here */
 
-/* hero section Ends  here */
 .hero-section {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -62,6 +61,7 @@ body {
   width: 100%;
 }
 
+/* hero section Ends  here */
 /* footer section starts here  */
 .grid4cols {
   display: grid;
