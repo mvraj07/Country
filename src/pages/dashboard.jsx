@@ -6,6 +6,8 @@ export default function Contact() {
         Welcome to your dashboard. Here you can view and manage your account
         information.
       </p>
+
+      <p> hello</p>
     </div>
   );
 }
