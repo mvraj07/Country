@@ -4,6 +4,7 @@ export default function Contact() {
       <h1>Contact Us</h1>
       <p>If you have any questions, feel free to reach out!</p>
       <p>whats up</p>
+      <p>is everything finehere</p>
     </div>
   );
 }
