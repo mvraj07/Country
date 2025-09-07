@@ -3,7 +3,7 @@ export default function Contact() {
     <div>
       <h1>Welcome to</h1>
       <p>country page</p>
-      <p>going for gfg</p>
+      <p>going for changing country page</p>
     </div>
   );
 }
