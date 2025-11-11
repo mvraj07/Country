@@ -9,7 +9,7 @@ export default function Hero() {
             tempore dolor voluptatem nisi, impedit veritatis voluptate
             voluptates, in voluptatum culpa, assumenda est qui quibusdam!
           </p>
-          <button>Explore More -</button>
+          <button>Explore More-</button>
         </div>
         <div className="hero-image">
           <img src="/images/heroImage.webp" alt="" />
