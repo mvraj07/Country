@@ -12,6 +12,7 @@ export default function Header() {
               <li>About</li>
               <li>Country</li>
               <li>Contact</li>
+              <li>Github</li>
             </ul>
           </div>
         </div>

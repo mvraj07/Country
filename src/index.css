@@ -4,3 +4,7 @@
   box-sizing: border-box;
   font-size: 62.5%;
 }
+.grid-two-cols {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
