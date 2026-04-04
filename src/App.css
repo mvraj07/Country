@@ -33,8 +33,7 @@ body {
 }
 .hero-content button {
   width: max-content;
-  padding: 0.6rem 1rem;
-  margin: 0 auto;
+  
 }
 .heroheading {
   font-size: 3.2rem;
