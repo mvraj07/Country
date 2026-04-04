@@ -15,9 +15,7 @@ body {
   align-items: center;
   justify-content: space-between;
 }
-.logo-heading {
-  font-size: 3.2rem;
-}
+
 
 .nav-links {
   display: flex;
